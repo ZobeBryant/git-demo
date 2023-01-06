@@ -6,7 +6,7 @@
 
 ## 代码
 场景1举例
-```
+```sh
 git rebase main
 #解决冲突
 git add .
