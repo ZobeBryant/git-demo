@@ -6,9 +6,9 @@
 
 ## 代码
 场景1举例
-~~~
+```
 git rebase main
-// 解决冲突
+#解决冲突
 git add .
 git rebase --continue
 git push -f
